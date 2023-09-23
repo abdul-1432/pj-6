@@ -5,7 +5,6 @@ Welcome to the Portfolio About Landing Page repository! This project is a simple
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -23,9 +22,6 @@ Welcome to the Portfolio About Landing Page repository! This project is a simple
 - Contact form for inquiries
 - SEO-friendly
 
-## Demo
-
-You can see a live demo of the Portfolio About Landing Page here: [Demo Link](https://yourportfolio.com)
 
 ## Getting Started
 
